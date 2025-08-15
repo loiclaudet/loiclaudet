@@ -1,16 +1,19 @@
-## Hi there 👋
+## hi there 👋
+<br/>
+i'm Loïc, a frontend engineer based in cyprus.
+<br/><br/>
 
-<!--
-**loiclaudet/loiclaudet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i love crafting beautiful and creative products, and exploring the possibilities of the web with frontend technologies.
 
-Here are some ideas to get you started:
+outside of code, you’ll find me playing sports ⚽️🏋️🏓, reading books, and enjoying card games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i also enjoy writing blog posts and sharing tech-related content on social media.
+
+<br/>
+
+fun facts:
+
+- i built mazes ꡙ‍ on paper when i was 8
+- yerba mate 🧉 is my unique source of caffeine
+- i played a lot of video games, some of my favourite ones are: pokemon red/blue, aoe 2/3, secret of mana, smb3, goldeneye
+- i speak 🇫🇷, 🇬🇧, and a little bit of 🇷🇺
