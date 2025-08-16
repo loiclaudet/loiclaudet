@@ -1,8 +1,7 @@
 ## hi there 👋
-<br/>
+
 i'm Loïc, a frontend engineer based in cyprus 🇨🇾
 
-<br/>
 i love crafting beautiful and creative products, and exploring the possibilities of the web with frontend technologies.
 
 outside of code, you’ll find me playing sports ⚽️🏋️🏓, reading books, and enjoying card games.
