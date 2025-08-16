@@ -2,7 +2,6 @@
 <br/>
 i'm Loïc, a frontend engineer based in cyprus 🇨🇾
 
-<br/><br/>
 
 i love crafting beautiful and creative products, and exploring the possibilities of the web with frontend technologies.
 
