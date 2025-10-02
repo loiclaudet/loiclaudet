@@ -1,6 +1,6 @@
 ## hi there 👋
 
-i'm Loïc, a frontend engineer based in cyprus 🇨🇾
+i'm Loïc, a design engineer based in cyprus 🇨🇾
 
 i love crafting beautiful and creative products, and exploring the possibilities of the web with frontend technologies.
 
