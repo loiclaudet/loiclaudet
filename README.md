@@ -1,3 +1,2 @@
-design engineer. minimalist.
-
-currently making kokopi — an anti-doomscrolling app with an insolent bird 🐦
+maker of @kokopiapp - the smug bird who ruins your doom scrolling.
+building in public 🐤
