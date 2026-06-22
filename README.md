@@ -1,1 +1,2 @@
-fighting mindless scrolling with [@kokopiapp](https://x.com/kokopiapp) 🐤️
+you're not scrolling. you're being scrolled.
+making [kokopi](https://kokopi.app) 🐤️
