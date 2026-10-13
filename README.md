@@ -1,1 +1,1 @@
-making [kokopi](https://kokopi.app) 🐤️
+making [kokopi](https://kokopi.app).
